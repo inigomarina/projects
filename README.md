@@ -1,2 +1,2 @@
 # projects
-This is my projects folder
+This is my guided MACHINE LEARNING projects folder
